@@ -6,8 +6,11 @@ This repository provides a simple and efficient tool for comparing pre-trained m
 ## Features
 - 1. Easy Comparison: Quickly compare multiple pre-trained models.
 - 2. Customizable Metrics: Evaluate models based on various metrics (e.g., accuracy, F1 score, precision, recall).
+  3. Models: Real-world pretrained models, such as bert-base-uncased, roberta_base, distilbert-base-uncased,xlnet-base-cased, t5-small, and albert-base-v2, are included in the comparison. These models are widely used in text classification tasks.
 
 ## Steps: 
-Start --> Load Data --> Preprocess --> Select Metrics --> Apply Topsis --> Rank Models --> Visualize Resukts --> End
+Start --> Load Data --> Preprocess --> Select Metrics --> Apply Topsis --> Rank Models --> Visualize Results --> End
+
+
 
 
