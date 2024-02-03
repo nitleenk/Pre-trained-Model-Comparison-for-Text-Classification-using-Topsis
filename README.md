@@ -8,10 +8,10 @@ This repository provides a simple and efficient tool for comparing pre-trained m
 - 2. Customizable Metrics: Evaluate models based on various metrics (e.g., accuracy, F1 score, precision, recall).
 - 3. Models: Real-world pretrained models, such as bert-base-uncased, roberta_base, distilbert-base-uncased,xlnet-base-cased, t5-small, and albert-base-v2, are included in the comparison. These models are widely used in text classification tasks.
 
-## Steps: 
+## Steps
 Start --> Load Data --> Preprocess --> Select Metrics --> Apply Topsis --> Rank Models --> Visualize Results --> End
 
-## Output:
+## Output
 - 1. roberta-base: Robust in classification tasks, demonstrating high F1 score and accuracy. It is considered best pre-trained model for our dataset.
 
 - 2. xlnet-base-cased: Excels in text classification tasks with 90% accuracy.It is the second best pre-trained model.
